@@ -103,5 +103,3 @@ This project is licensed under the MIT License.
 
 ---
 
-Would you also like me to create a sample `requirements.txt` file for you in one go too? 🚀  
-(so that your setup becomes even faster)
